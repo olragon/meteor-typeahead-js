@@ -1,0 +1,8 @@
+{
+  "name": "typeahead-js",
+  "description": "typeahead.js repackaged for Meteor",
+  "homepage": "https://github.com/olragon/meteor-typeahead-js",
+  "author": "Long Nguyen <olragon@gmail.com> (http://cun.vn)",
+  "version": "0.9.3",
+  "git": "https://github.com/olragon/meteor-typeahead-js.git"
+}
